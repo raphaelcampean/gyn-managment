@@ -1,4 +1,4 @@
-# gyn-management
+# gym-management
 
 # Sistema de Academia em Java
 
